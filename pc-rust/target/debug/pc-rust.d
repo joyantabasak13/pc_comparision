@@ -1,0 +1,1 @@
+/home/joyanta/Documents/MSc\ CourseWork/Programming\ Languages/project/producer-consumer-master/pc-rust/target/debug/pc-rust: /home/joyanta/Documents/MSc\ CourseWork/Programming\ Languages/project/producer-consumer-master/pc-rust/src/main.rs
